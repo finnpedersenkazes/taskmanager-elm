@@ -42,7 +42,7 @@ viewTaskEntity model =
         HomePage ->
             cardBody
                 [ cardBodyTitle "Welcome to Task Manager"
-                , text "Version 2021-12-11 16:52"
+                , text "Version 2023-09-29 10:15"
                 ]
 
         Typing taskId ->
